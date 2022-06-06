@@ -12,7 +12,8 @@ python3 get_messages.py <declared_number_of_messages>
 
 The `declared_number_of_messages` should be an integer, and it's an optional argument.
 
-Afterwards, the payloads are saved as json text file at `/messages` directory.
+Afterwards, the payloads are saved as json file at `/messages` directory.
+It only works for json body.
 
 ## Config
 
