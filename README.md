@@ -1,6 +1,8 @@
-<img align="right" width="130" height="130" src="https://user-images.githubusercontent.com/22943366/175839311-833c917e-b70c-49a3-bdad-79baeb26e40d.jpg">
+<img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/22943366/175839311-833c917e-b70c-49a3-bdad-79baeb26e40d.jpg">
 
 # Fiend's Gate
+
+<br clear="left"/>
 
 > Opens 2 portals, one next to the origin queue and one in the target queue. Messages can channel a portal to teleport to the other side. JSON text that pass through the portal temporarily gain Damage Reduction and Movement Speed. Portals have to be at least 2000 away from each other.
 
