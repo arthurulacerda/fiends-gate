@@ -1,6 +1,10 @@
-# poll-sqs-queue
+<img align="right" width="130" height="130" src="https://user-images.githubusercontent.com/22943366/175839311-833c917e-b70c-49a3-bdad-79baeb26e40d.jpg">
 
-Simple script to retrieve messages from an SQS queue, without deleting it.
+# Fiend's Gate
+
+> Opens 2 portals, one next to the origin queue and one in the target queue. Messages can channel a portal to teleport to the other side. JSON text that pass through the portal temporarily gain Damage Reduction and Movement Speed. Portals have to be at least 2000 away from each other.
+
+Simple script to handle sqs messages without deleting them.
 
 ## How does it work?
 
